@@ -185,7 +185,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+Estamos nos preocupando com a qualidade da interface do usuario sendo ela caracterizada por ser limpa e minimalista, mas extremamente funcional. Sendo assim, o projeto acaba tendo uma identidade visual alem de facil e intuitiva, fortalecendo a fixabilidade da aplicação na rotina de nossos usuarios.
 
 > Apresente as principais interfaces da solução. Discuta como 
 > foram elaboradas de forma a atender os requisitos funcionais, não
