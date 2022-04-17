@@ -231,6 +231,7 @@ A barra lateral possuira notas padronizadas e personalizadas que poderao ser ind
 Assim sendo estas telas serao:
 
 1 - Planner
+
 Sera a tela inicial do site, com as informacoes necessarias com facil visualizacao
 As notas serao dispostas baseadas em tempo de duracao, nivel de relevancia e sua categoria
 sera uma especie de calendario de visualizacao semanal
@@ -238,16 +239,19 @@ sera uma especie de calendario de visualizacao semanal
 ![Userflow](images/WireFrame/Planner.jpg)
 
 2 - Calendario
+
 Uma versao modificada do Planner onde as informacoes serao dispostas baseadas em um calendario mensal
 
 ![Userflow](images/WireFrame/Calendario.jpg)
 
 3 - Notas
+
 Puramente as notas em ordem cronologica ou de importancia, sem marcacao de dias
 
 ![Userflow](images/WireFrame/Notas.jpg)
 
 3.2 - Adicionar notas
+
 Uma tela dedicada a configuracao da nota, para aquelas pessoas que buscam uma experiencia mais avancada de como configurar sua rotina
 
 ![Userflow](images/WireFrame/AdicionarNota.jpg)
@@ -257,6 +261,7 @@ A partir destas existirao as telas secundarias que nao visam a visualizacao das 
 estas serao:
 
 1 - Relatorio
+
 Parte dedicada a ver estatisticas de como sua experiencia esta ocorrendo
 assim como relatado na pesquisa 100% das pessoas responderam que acreditavam que uma melhor organizacao de sua vida traria melhorias significativas a sua vida pessoal e profissional, impactando diretamente seu rendimento financeiro e uma melhor qualidade de vida
 por isso a importancia de um relatorio, para que possa ser provado diretamente ao usuario a diferenca da utilizacao do site
@@ -264,17 +269,20 @@ por isso a importancia de um relatorio, para que possa ser provado diretamente a
 ![Userflow](images/WireFrame/Relatorio.jpg)
 
 1.2 - Sugestoes
+
 Sessao baseada em analisar os dados do usuario para aqueles que buscam uma experiencia o mais avancada possivel
 tendo retorno de artigos profissionais ou contato com profissionais que possam auxiliar em seu crescimento, baseado naquilo que gera a origem de seu problema
 
 ![Userflow](images/WireFrame/Sugestoes.jpg)
 
 2 - Artigos
+
 Os artigos sao baseados em sessoes de auto-ajuda, recomendacao de livros, tecnicas e metodos que possam complementar a rotina de quem utiliza a aplicacao
 
 ![Userflow](images/WireFrame/Artigos.jpg)
 
 2.2 - Profissionais
+
 Lista de profissionais parceiros que podem auxiliar o usuario, baseados em suas necessidades que o levaram a procurar um site/aplicacao sobre procrastinacao e organizacao
 
 ![Userflow](images/WireFrame/Profissionais.jpg)
@@ -283,11 +291,13 @@ Lista de profissionais parceiros que podem auxiliar o usuario, baseados em suas 
 Alem destas telas existira a parte de configuracoes, que se divide em duas:
 
 1 - Configuracoes
+
 configuracoes da conta em geral e tudo aquilo que abrange a experiencia do usuario
 
 ![Userflow](images/WireFrame/Configuracoes.jpg)
 
 2 - Personalizacao
+
 pessoas com necessidades diferentes precisam de ambientes diferentes
 nosso site abrange publicos com caracteristicas que distinguem de procurar uma experiencia basica ou avancada ou gosto por temas que se encaixam melhor em sua personalidade, como os classicos temas claro e escuro
 
