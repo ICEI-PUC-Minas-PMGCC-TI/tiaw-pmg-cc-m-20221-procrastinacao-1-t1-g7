@@ -94,14 +94,19 @@ O nosso software pretende ajudar qualquer pessoa que precise de otimizar sua rot
 > 
 > ![Fernanda_Persona](imaages/../images/Persona_Fernanda.png)
 >
+> ![Fernanda Empatia](imaages/../images/Empatia_Fernanda.png)
+> 
 > **Segunda Persona**
 > 
 > ![Bruno_Persona](imaages/../images/Persona_Bruno.png)
-> 
 >
+> ![Bruno Empatia](imaages/../images/Empatia_Bruno.png)
+> 
 > **Terceira Persona**
 > 
 > ![Matheus_Persona](imaages/../images/Persona_Matheus.png)
+>
+> ![Matheus Empatia](imaages/../images/Empatia_Matheus.png)
 
 
 ## Histórias de Usuários
