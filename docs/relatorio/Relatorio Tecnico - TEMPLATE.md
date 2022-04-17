@@ -333,13 +333,18 @@ nosso site abrange publicos com caracteristicas que distinguem de procurar uma e
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+  Além das funções pré-definidas abaixo, todos os membros do grupo participaram da elaboração de determinadas partes do projeto, como o Miro, e algumas participaram de outras pequenas partes, fora das suas específicas.
 
 > Matheus - Repositório Github
+
 > Marcos Antônio - Repositório Github e Figma
+
 > Gabriel Ramos - Documentação
+
 > Dênis Soares - Documentação
+
 > João Vitor Romero - Apresentação slides, Figma e um pouco do Github
+
 > Gabriel Vinci - Apresentação slides
 
 
