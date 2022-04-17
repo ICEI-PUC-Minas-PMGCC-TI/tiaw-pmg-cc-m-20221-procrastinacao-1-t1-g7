@@ -201,22 +201,79 @@ Para visualizar o wireframe pelo aplicativo do figma acesse: https://www.figma.c
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+De acordo com o userflow apresentado no artigo acima o site tera uma tela de login distinta a sua funcionalidade
+Sobre esta primeira tela, ela sera separada em 2 partes
+Barra esquerda - Explicacoes e breves resumos sobre o site
+Tela interativa - possuira a parte de login ou recuperacao de senha
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+Esta tela principal sera divida em 5 subdivisoes sendo estas:
+
+1 - Home/Login
+
+![Userflow](images/WireFrame/Homepage.jpg)
+
+2 - Recuperar Senha
+
+![Userflow](images/WireFrame/RecuperarSenha1.jpg)
+
+3 - Criar Conta
+
+![Userflow](images/WireFrame/CriarConta.jpg)
+
+4 - Sobre Nos
+
+![Userflow](images/WireFrame/SobreNos.jpg)
+
+
+Conforme se segue o fluxo ira para a tela principal do site onde terao 3 telas principais:
+
+1 - Planner (sendo esta a inicial)
+
+![Userflow](images/WireFrame/Planner.jpg)
+
+2 - Calendario
+
+![Userflow](images/WireFrame/Calendario.jpg)
+
+3 - Notas
+
+![Userflow](images/WireFrame/Notas.jpg)
+
+3.2 - Adicionar notas
+
+![Userflow](images/WireFrame/AdicionarNota.jpg)
+
+
+A partir destas existirao as telas secundas, sendo estas:
+
+1 - Relatorio
+
+![Userflow](images/WireFrame/Relatorio.jpg)
+
+1.2 - Sugestoes
+
+![Userflow](images/WireFrame/Sugestoes.jpg)
+
+2 - Artigos
+
+![Userflow](images/WireFrame/Artigos.jpg)
+
+2.2 - Profissionais
+
+![Userflow](images/WireFrame/Profissionais.jpg)
+
+
+Alem destas telas existira a parte de configuracoes, que se divide em duas:
+
+1 - Configuracoes
+
+![Userflow](images/WireFrame/Configuracoes.jpg)
+
+2 - Personalizacao
+
+![Userflow](images/WireFrame/Personalizacao.jpg)
+
+
 
 
 # Metodologia
