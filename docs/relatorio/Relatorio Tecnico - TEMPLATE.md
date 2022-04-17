@@ -137,37 +137,31 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Relatorio de produtividade | ALTA |
+|RF-002| Controle de frequencia de notificacao | ALTA |
+|RF-003| Nivel de complexidade customizavel | BAIXA |
+|RF-004| Pagina com artigos | ALTA |
+|RF-005| Utilizacao de paleta de cores pastel | ALTA |
+|RF-006| Calendario com lembretes | ALTA |
+|RF-007| Relatorio de produtividade | ALTA |
+|RF-008| planner | ALTA |
+|RF-009| Diferentes notificacoes e anotacoes | ALTA |
+|RF-010| Temas diferentes para o site | BAIXA |
+|RF-011| Contato de especialistas e profissionais | MÉDIA |
+|RF-012| Integracao multiplataforma | BAIXA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|RNF-001| Sistemas de recompensas | MÉDIA | 
+|RNF-002| Sistema de fidelidade |  BAIXA | 
+|RNF-003| Assistente virtual personalizavel (sistema de recompensas) | BAIXA |
+|RNF-004| Assistente virtual que auxiliara o usuario | ALTA |
+|RNF-005| Planilha personalizada | ALTA |
+|RNF-006| Mensagens incentivadoras | MÉDIA |
+|RNF-007| Tela de chat para ajuda | BAIXA |
 
 
 ## Restrições
@@ -178,6 +172,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
+|03| O projeto deve utilizar apenas HTML, CSS, JV          |
+|04| O projeto deve ser feito utilizando metodologias      |
+|05| A evolucao do projeto deve ser feita em reuniao       |
 
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições
