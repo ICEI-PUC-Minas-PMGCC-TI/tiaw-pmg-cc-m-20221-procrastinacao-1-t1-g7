@@ -60,23 +60,23 @@ O projeto está sendo desenvolvido por um grupo de alunos do 1º período de Ci�
 
 ## Problema
 
-Milhões de pessoas todos os dias sofrem por falta de organização e não realizam todos os seus afazeres. As vezes podemos pensar que este problema afeta somente pessoas muito atarefadas como executivos e pessoas com várias reuniões diárias, mas o que acaba acontecendo é que até mesmo pessoas com menos tarefas que não sabem fazer uma organização otimizada que neutralize as chances de procrastinar, podem acabar criando uma bola de neve que certamente trará dor de cabeça no futuro.
+Milhões de pessoas todos os dias sofrem por falta de organização e não realizam todos os seus afazeres. Às vezes, podemos pensar que este problema afeta somente pessoas muito atarefadas como executivos e pessoas com várias reuniões diárias, mas o que acaba acontecendo é que até mesmo pessoas com menos tarefas que não sabem fazer uma organização otimizada que neutralize as chances de procrastinar, podem acabar criando uma bola de neve que certamente trará dor de cabeça no futuro.
 
-Tendo isto em vista o grupo decidiu abordar esse problema como tema de seu projeto da matéria TIAW. Temos como objetivo ajudar e melhorar a vida das pessoas, as tornando mais organizadas e focadas nos estudos e no trabalho.
+Tendo isto em vista, o grupo decidiu abordar esse problema como tema de seu projeto da matéria Trabalho Interdisciplinar Aplicações Web (TIAW). Temos como objetivo ajudar e melhorar a vida das pessoas, tornando-as mais organizadas e focadas nos estudos e no trabalho.
 
 ## Objetivos
 
 Dentre os objetivos do projeto, temos como foco principal o desenvolvimento de um software que ajudará seus usuários a otimizarem a organização de sua rotina durante a semana. Além disso, é muito importante para nós conscientizar as pessoas sobre a importância da organização pessoal para o sucesso na vida.
-Pretendemos também, através dos recursos do software, criar interesse dos usuários acerca dos métodos de estudo sugeridos por especialistas. Fazendo assim com que o software seja ideal para alguém que deseja conciliar os estudos com outras atividades.
+Pretendemos também, através dos recursos do software, despertar o interesse dos usuários acerca dos métodos de estudo sugeridos por especialistas. Fazendo com que o software seja ideal para alguém que deseja conciliar os estudos com outras atividades.
 
 ## Justificativa
 
-O motivo que levou nosso grupo a querer trabalhar nesse projeto e torná-lo algo real, é a quantidade de pessoas que apresenta problemas com organização atualmente. A procrastinação já esteve presente na vida de qualquer um e em alguns casos ela pode se tornar algo recorrente e que faz muitas pessoas desistirem de suas metas e sonhos. A importância desse projeto foi mostrada de forma concreta quando fizemos uma pesquisa em vários meios com mais de 40 pessoas e pudemos observar que mais de 85% dessas pessoas possuem problemas relacionados à falta de organização e procrastinação, porém não sabem como resolver isso. Dessa forma, estamos motivados e temos conhecimento da dimensão desse problema e o que ele causa em nossa sociedade.
+O motivo que levou nosso grupo a querer trabalhar nesse projeto e torná-lo algo real é a quantidade de pessoas que apresentam problemas com organização atualmente. A procrastinação já esteve presente na vida de qualquer um e em alguns casos ela pode se tornar algo recorrente e que faz muitas pessoas desistirem de suas metas e sonhos. A importância desse projeto foi mostrada de forma concreta quando fizemos uma pesquisa com mais de 40 pessoas em ambientes distintos, e pudemos observar que mais de 85% dessas pessoas possuem problemas relacionados à falta de organização e procrastinação, porém, não sabem como resolvê-los. Dessa forma, estamos motivados e temos conhecimento da dimensão desse problema e o que ele causa em nossa sociedade.
 
 ## Público-Alvo
 
-O público-alvo de nosso software se consiste em pessoas que possuem dificuldade de organizar sua rotina, seja ela simples ou bem carregada. Como esse problema atinge perfis que podem ser totalmente diferente, visamos a facilidade para o uso dos recursos pelo usuário, porém com recursos muito completos, que atendem essas diferentes características.
-O nosso software pretende ajudar qualquer pessoa que precise de otimizar sua rotina, portanto nosso objetivo é que tanto alguém que tenha o mínimo de conhecimento tecnológico e que precise de nós apenas para lembrar de marcar o psicólogo semanalmente, quanto outro usuário que trabalha durante todo o dia e estuda pela noite e precisa conciliar os afazeres da faculdade e do trabalho possam utilizar nossos recursos.
+O público-alvo do nosso software se consiste em pessoas que possuem dificuldade de organizar sua rotina, seja ela simples ou bem carregada. Como esse problema atinge perfis que podem ser totalmente diferente, visamos a facilidade para o uso dos recursos pelo usuário, porém, com recursos muito completos, que atendem essas diferentes características.
+O nosso software pretende ajudar qualquer pessoa que precise de otimizar sua rotina, portanto nosso objetivo é que tanto alguém que tenha o mínimo de conhecimento tecnológico e que precise de nós apenas para lembrar de marcar o psicólogo semanalmente, quanto outro usuário que trabalha durante todo o dia e estuda pela noite e precisa conciliar os afazeres da faculdade e do trabalho possam utilizar nossos recursos com facilidade.
 
 # Especificações do Projeto
 
