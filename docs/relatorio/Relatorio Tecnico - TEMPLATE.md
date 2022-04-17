@@ -193,9 +193,10 @@ Estamos nos preocupando com a qualidade da interface do usuario sendo ela caract
 O diagrama a seguir apresenta o fluxo que o usuario ira tomar dentro do site-aplicação
 sendo a tela incial um login juntamente com uma apresentacao simples do aplicativo
 Para visualizar o wireframe interativo acesse: https://www.figma.com/proto/U4ycqEjCBOnQNSwdEny9Kf/Untitled?node-id=3%3A86&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=3%3A86
-para visualizar o wireframe pelo aplicativo do figma acesse: https://www.figma.com/file/U4ycqEjCBOnQNSwdEny9Kf/Untitled?node-id=6%3A1339
 
-(images/WireFrame/userflow.jpg)
+Para visualizar o wireframe pelo aplicativo do figma acesse: https://www.figma.com/file/U4ycqEjCBOnQNSwdEny9Kf/Untitled?node-id=6%3A1339
+
+![Userflow](images/WireFrame/userflow.jpg)
 
 
 ## Wireframes
