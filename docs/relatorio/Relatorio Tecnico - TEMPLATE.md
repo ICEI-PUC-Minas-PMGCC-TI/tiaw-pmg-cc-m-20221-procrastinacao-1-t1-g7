@@ -313,23 +313,22 @@ nosso site abrange publicos com caracteristicas que distinguem de procurar uma e
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A metodologia que usamos contemplou o uso de diversas ferramentas de trabalho para assim uma melhor diversificacao de funcoes no grupo.
+Foram utilizados: 
+Github para o controle de versao e repositorio de codigo, metodologia, documentacao e tudo aquilo que for feito no projeto
 
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+Utilizamos o google forms para fazer uma entrevista com o nosso publico alvo, tendo juntamente a isto a entrevista presencial para uma melhor qualidade de resultados
+
+O Miro foi utilizado para criar e discutir todo o processo de design thinking, todo este foi feito em maior parte presencialmente com todos do grupo e escrito em conjunto atraves da discussao de ideias e analise qualitativa das entrevistas, tanto as realizadas pessoalmente quanto aquelas quantitativas feitas pelo forms
+
+Usamos o Figma para construir o userflow baseado nas ideias discutidas e concluidas atraves do Miro (persona e processo de design thinking) e tentar implementa-las de maneira funcional no site. Junto a isto no Figma tambem foi construido o Wireframe do projeto para servir como base para a construcao do template do site
+
+Por fim durante todo o projeto tambem foi utilizado um grupo no discord para termos controle da divisao de tarefas e divisao de funcoes, estas cujo quais ficaram muito bem definidas sendo um membro lider de cada parte do projeto para guiar e delegar as funcoes relacionadas a sua parte para os outros membros do grupo
+
+Decidimos alem disto utilizar o VSCode para escrevermos o codigo do programa
+E a ferramenta Trello foi decidida para fazer a divisao de tarefas que sera realizada durante a criacao do codigo do site
+
+Utilizamos por fim o Google Presentation para fazer a criacao de slides de apresentacao para explicar o nosso projeto, que foi feito junto do Slidesgo onde foi retirado o modelo de apresentacao utilizado
 
 ## Divisão de Papéis
 
@@ -350,15 +349,20 @@ nosso site abrange publicos com caracteristicas que distinguem de procurar uma e
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
+Assim como explicado acima aqui estao o link das ferramentas utilizadas juntamente com o link do nosso projeto dentro delas
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro | https://miro.com/app/board/uXjVOAUNaP0=/ | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX |
+|Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-procrastinacao-1-t1-g7 |
 |Protótipo Interativo | Figma | https://www.figma.com/file/U4ycqEjCBOnQNSwdEny9Kf/Untitled?node-id=6%3A1339 | 
 |Editor de código | VSCode | https://code.visualstudio.com | 
 |Comunicação entre o grupo | Discord | https://discord.gg/bvRCNbwk |
+|Formulario do google | Forms | https://forms.gle/dHjjc395aqf5xT1y8 |
+|Padrao de slides | Slidesgo | https://slidesgo.com/pt |
+|Criacao de slides | Workspace | https://workspace.google.com/intl/pt-BR/products/slides |
+|Resultado da pesquisa | Forms | https://docs.google.com/forms/d/1JsHhjSWS_8ko8sxOILNrSzmygGmtweiRA6NdtYKjU9k/edit#responses |
+
 
 ## Controle de Versão
 
