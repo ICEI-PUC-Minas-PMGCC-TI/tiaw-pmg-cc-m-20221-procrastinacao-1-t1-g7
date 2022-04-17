@@ -361,27 +361,43 @@ Assim como explicado acima aqui estao o link das ferramentas utilizadas juntamen
 ## Controle de Versão
 
 O site vai ser divido em versoes que utilizacao 3 digitos sendo estes:
+
 1 - Atualizacao master
+
 2 - Atualizacao parcial estavel
+
 3 - Atualizacao de bugfix ou atualizacao de codigo sem implementacao visual
 
 exemplo:
+
 2.5.1
+
 2 = Segunda grande implementacao estavel
+
 .5 = quinta parte de implementacao parcial, mas ainda nao caracteriza uma mudanca significativa
+
 .1 = bugs corrigidos
 
 Utilizaremos tambem algumas tags para o desenvolvimento
 
 `master`: versão estável já testada do software
+
 `unstable`: versão já testada do software, porém instável
+
 `testing`: versão em testes do software
+
 `dev`: versão de desenvolvimento do software
+
 `bugfix`: uma funcionalidade encontra-se com problemas
+
 `enhancement`: uma funcionalidade precisa ser melhorada
+
 `feature`: uma nova funcionalidade precisa ser introduzida
+
 `description`: uma melhoria no sistema de comentarios do codigo
+
 `root`: uma modificacao na base do sistema
+
 `branch`: uma modificacao que nao modifica outras partes do sistema
 
 
