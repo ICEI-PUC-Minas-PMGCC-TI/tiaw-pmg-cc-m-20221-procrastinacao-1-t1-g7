@@ -362,6 +362,7 @@ Assim como explicado acima aqui estao o link das ferramentas utilizadas juntamen
 |Padrao de slides | Slidesgo | https://slidesgo.com/pt |
 |Criacao de slides | Workspace | https://workspace.google.com/intl/pt-BR/products/slides |
 |Resultado da pesquisa | Forms | https://docs.google.com/forms/d/1JsHhjSWS_8ko8sxOILNrSzmygGmtweiRA6NdtYKjU9k/edit#responses |
+|Apresentacao de Slides | Docs | https://docs.google.com/presentation/d/1ap0tOci9GqX-A4SL1uXNS-87tgkDFLg-rE71AcwHzXc/edit?usp=sharing |
 
 
 ## Controle de Versão
