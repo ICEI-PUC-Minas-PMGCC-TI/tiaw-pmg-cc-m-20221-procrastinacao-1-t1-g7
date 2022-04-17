@@ -111,26 +111,15 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-| Fernanda | Precisa conciliar sua vida profissional e sua vida social           | Passar mais tempo com seus amigos  |
-| Fernanda       | Organizar os estudos da faculdade em atraso                 | Passar de semestre na faculdade |
-| Fernanda      | Não precisar desmarcar compromissos | Não parecer uma pessoa desleixada |
+| Fernanda | Precisa conciliar sua vida profissional e sua vida social | Passar mais tempo com seus amigos  |
+| Fernanda | Organizar os estudos da faculdade em atraso  | Passar de semestre na faculdade |
+| Fernanda | Não precisar desmarcar compromissos | Não parecer uma pessoa desleixada |
 | Bruno | Organizar melhor o seu horário de trabalho | Não ter muito trabalho se acumulando |
 | Bruno | Precisa ser mais produtivo e responsável | Produzir mais em menos tempo |
 | Bruno | Ter horários bem definidos | Ter um trabalho menos estressante |
 | Matheus | Organizar bem suas metas de vida | Conseguir enxergar claramente os seus objetivos |
 | Matheus | Organizar seu tempo | Parar de procrastinar |
 | Matheus | Definir uma rotina fixa | Facilitar a organização de suas tarefas |
-
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Requisitos
 
@@ -140,18 +129,18 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Relatorio de produtividade | ALTA |
-|RF-002| Controle de frequencia de notificacao | ALTA |
-|RF-003| Nivel de complexidade customizavel | BAIXA |
-|RF-004| Pagina com artigos | ALTA |
-|RF-005| Utilizacao de paleta de cores pastel | ALTA |
-|RF-006| Calendario com lembretes | ALTA |
-|RF-007| Relatorio de produtividade | ALTA |
-|RF-008| planner | ALTA |
-|RF-009| Diferentes notificacoes e anotacoes | ALTA |
+|RF-001| Relatório de produtividade | ALTA |
+|RF-002| Controle de frequência de notificação | ALTA |
+|RF-003| Nivel de complexidade customizável | BAIXA |
+|RF-004| Página com artigos | ALTA |
+|RF-005| Utilização de paleta de cores pastel | ALTA |
+|RF-006| Calendário com lembretes | ALTA |
+|RF-007| Relatório de produtividade | ALTA |
+|RF-008| Planner | ALTA |
+|RF-009| Diferentes notificações e anotações | ALTA |
 |RF-010| Temas diferentes para o site | BAIXA |
 |RF-011| Contato de especialistas e profissionais | MÉDIA |
-|RF-012| Integracao multiplataforma | BAIXA |
+|RF-012| Integração multiplataforma | BAIXA |
 
 
 ### Requisitos não Funcionais
@@ -160,8 +149,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| Sistemas de recompensas | MÉDIA | 
 |RNF-002| Sistema de fidelidade |  BAIXA | 
-|RNF-003| Assistente virtual personalizavel (sistema de recompensas) | BAIXA |
-|RNF-004| Assistente virtual que auxiliara o usuario | ALTA |
+|RNF-003| Assistente virtual personalizável (sistema de recompensas) | BAIXA |
+|RNF-004| Assistente virtual que auxiliará o usuário | ALTA |
 |RNF-005| Planilha personalizada | ALTA |
 |RNF-006| Mensagens incentivadoras | MÉDIA |
 |RNF-007| Tela de chat para ajuda | BAIXA |
@@ -177,39 +166,31 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |02| Não pode ser desenvolvido um módulo de backend        |
 |03| O projeto deve utilizar apenas HTML, CSS, JV          |
 |04| O projeto deve ser feito utilizando metodologias      |
-|05| A evolucao do projeto deve ser feita em reuniao       |
-
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|05| A evolução do projeto deve ser feita em reunião       |
 
 
 # Projeto de Interface
 
-Estamos nos preocupando com a qualidade da interface do usuario sendo ela caracterizada por ser limpa e minimalista, mas extremamente funcional. Sendo assim, o projeto acaba tendo uma identidade visual alem de facil e intuitiva, fortalecendo a fixabilidade da aplicação na rotina de nossos usuarios.
+Estamos nos preocupando com a qualidade da interface do usuário, sendo ela caracterizada por ser limpa e minimalista, mas extremamente funcional. Sendo assim, o projeto acaba tendo uma identidade visual além de fácil e intuitiva, fortalecendo a fixabilidade da aplicação na rotina de nossos usuários.
 
 
 ## User Flow
 
-O diagrama a seguir apresenta o fluxo que o usuario ira tomar dentro do site-aplicação
-sendo a tela incial um login juntamente com uma apresentacao simples do aplicativo
-Para visualizar o wireframe interativo acesse: https://www.figma.com/proto/U4ycqEjCBOnQNSwdEny9Kf/Untitled?node-id=3%3A86&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=3%3A86
+O diagrama a seguir apresenta o fluxo que o usuário irá tomar dentro do site-aplicação
+sendo a tela incial um login juntamente com uma apresentação simples do aplicativo
+Para visualizar o wireframe interativo, acesse: https://www.figma.com/proto/U4ycqEjCBOnQNSwdEny9Kf/Untitled?node-id=3%3A86&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=3%3A86
 
-Para visualizar o wireframe pelo aplicativo do figma acesse: https://www.figma.com/file/U4ycqEjCBOnQNSwdEny9Kf/Untitled?node-id=6%3A1339
+Para visualizar o wireframe pelo aplicativo do figma, acesse: https://www.figma.com/file/U4ycqEjCBOnQNSwdEny9Kf/Untitled?node-id=6%3A1339
 
 ![Userflow](images/WireFrame/userflow.jpg)
 
 
 ## Wireframes
 
-De acordo com o userflow apresentado no artigo acima o site tera uma tela de login distinta a sua funcionalidade
-Sobre esta primeira tela, ela sera separada em 2 partes
-Barra esquerda - Explicacoes e breves resumos sobre o site
-Tela interativa - possuira a parte de login ou recuperacao de senha
+De acordo com o userflow apresentado no artigo acima, o site terá uma tela de login distinta à sua funcionalidade
+Sobre esta primeira tela, ela será separada em 2 partes:
+Barra esquerda - Explicações e breves resumos sobre o site
+Tela interativa - possuirá a parte de login ou recuperação de senha
 
 Esta tela principal sera divida em 5 subdivisoes sendo estas:
 
@@ -225,86 +206,86 @@ Esta tela principal sera divida em 5 subdivisoes sendo estas:
 
 ![Userflow](images/WireFrame/CriarConta.jpg)
 
-4 - Sobre Nos
+4 - Sobre Nós
 
 ![Userflow](images/WireFrame/SobreNos.jpg)
 
 
 Conforme se segue o fluxo ira para a tela principal do site onde terao 3 telas principais
-Estas telas terao sempre um padrao de barra lateral, com ajustes, configuracoes, opcoes extras e navegacoes
-A barra lateral possuira notas padronizadas e personalizadas que poderao ser indexadas ao Planner/Calendario
-Assim sendo estas telas serao:
+Estas telas terão sempre um padrão de barra lateral, com ajustes, configuracões, opções extras e navegações
+A barra lateral possuirá notas padronizadas e personalizadas que poderão ser indexadas ao Planner/Calendário
+Assim sendo estas telas serão:
 
 1 - Planner
 
-Sera a tela inicial do site, com as informacoes necessarias com facil visualizacao
-As notas serao dispostas baseadas em tempo de duracao, nivel de relevancia e sua categoria
-sera uma especie de calendario de visualizacao semanal
+Será a tela inicial do site, com as informações necessárias com fácil visualização
+As notas serão dispostas baseadas em tempo de duração, nível de relevância e sua categoria
+será uma espécie de calendário de visualização semanal
 
 ![Userflow](images/WireFrame/Planner.jpg)
 
-2 - Calendario
+2 - Calendário
 
-Uma versao modificada do Planner onde as informacoes serao dispostas baseadas em um calendario mensal
+Uma versão modificada do Planner onde as informações serão dispostas baseadas em um calendário mensal
 
 ![Userflow](images/WireFrame/Calendario.jpg)
 
 3 - Notas
 
-Puramente as notas em ordem cronologica ou de importancia, sem marcacao de dias
+Puramente as notas em ordem cronológica ou de importância, sem marcação de dias
 
 ![Userflow](images/WireFrame/Notas.jpg)
 
 3.2 - Adicionar notas
 
-Uma tela dedicada a configuracao da nota, para aquelas pessoas que buscam uma experiencia mais avancada de como configurar sua rotina
+Uma tela dedicada a configuração da nota, para aquelas pessoas que buscam uma experiência mais avancada de como configurar sua rotina
 
 ![Userflow](images/WireFrame/AdicionarNota.jpg)
 
 
-A partir destas existirao as telas secundarias que nao visam a visualizacao das notas e sim uma experiencia mais avancada para aqueles que buscam profundidade no aplicativo
-estas serao:
+A partir destas existirão as telas secundárias que nao visam a visualização das notas e sim uma experiência mais avancada para aqueles que buscam profundidade no aplicativo.
+Estas serão:
 
-1 - Relatorio
+1 - Relatório
 
-Parte dedicada a ver estatisticas de como sua experiencia esta ocorrendo
-assim como relatado na pesquisa 100% das pessoas responderam que acreditavam que uma melhor organizacao de sua vida traria melhorias significativas a sua vida pessoal e profissional, impactando diretamente seu rendimento financeiro e uma melhor qualidade de vida
-por isso a importancia de um relatorio, para que possa ser provado diretamente ao usuario a diferenca da utilizacao do site
+Parte dedicada a ver estatisticas de como sua experiência está ocorrendo,
+assim como relatado na pesquisa 100% das pessoas responderam que acreditavam que uma melhor organização de sua vida traria melhorias significativas a sua vida pessoal e profissional, impactando diretamente seu rendimento financeiro e uma melhor qualidade de vida
+por isso a importância de um relatório, para que possa ser provado diretamente ao usuário a diferença da utilização do site.
 
 ![Userflow](images/WireFrame/Relatorio.jpg)
 
-1.2 - Sugestoes
+1.2 - Sugestões
 
-Sessao baseada em analisar os dados do usuario para aqueles que buscam uma experiencia o mais avancada possivel
+Sessão baseada em analisar os dados do usuário para aqueles que buscam uma experiência o mais avancada possível
 tendo retorno de artigos profissionais ou contato com profissionais que possam auxiliar em seu crescimento, baseado naquilo que gera a origem de seu problema
 
 ![Userflow](images/WireFrame/Sugestoes.jpg)
 
 2 - Artigos
 
-Os artigos sao baseados em sessoes de auto-ajuda, recomendacao de livros, tecnicas e metodos que possam complementar a rotina de quem utiliza a aplicacao
+Os artigos sao baseados em sessões de auto-ajuda, recomendação de livros, técnicas e métodos que possam complementar a rotina de quem utiliza a aplicação
 
 ![Userflow](images/WireFrame/Artigos.jpg)
 
 2.2 - Profissionais
 
-Lista de profissionais parceiros que podem auxiliar o usuario, baseados em suas necessidades que o levaram a procurar um site/aplicacao sobre procrastinacao e organizacao
+Lista de profissionais parceiros que podem auxiliar o usuário, baseados em suas necessidades que o levaram a procurar um site/aplicação sobre procrastinação e organização.
 
 ![Userflow](images/WireFrame/Profissionais.jpg)
 
 
-Alem destas telas existira a parte de configuracoes, que se divide em duas:
+Além destas telas existirá a parte de configurações, que se divide em duas:
 
-1 - Configuracoes
+1 - Configurações
 
-configuracoes da conta em geral e tudo aquilo que abrange a experiencia do usuario
+Configuracões da conta em geral e tudo aquilo que abrange a experiência do usuário
 
 ![Userflow](images/WireFrame/Configuracoes.jpg)
 
-2 - Personalizacao
+2 - Personalização
 
-pessoas com necessidades diferentes precisam de ambientes diferentes
-nosso site abrange publicos com caracteristicas que distinguem de procurar uma experiencia basica ou avancada ou gosto por temas que se encaixam melhor em sua personalidade, como os classicos temas claro e escuro
+Pessoas com necessidades diferentes precisam de ambientes diferentes
+nosso site abrange públicos com caracteristicas que distinguem de procurar uma experiência básica ou avançada ou gosto por temas que se encaixam melhor em sua personalidade, como os clássicos temas claro e escuro.
 
 ![Userflow](images/WireFrame/Personalizacao.jpg)
 
@@ -313,22 +294,23 @@ nosso site abrange publicos com caracteristicas que distinguem de procurar uma e
 
 # Metodologia
 
-A metodologia que usamos contemplou o uso de diversas ferramentas de trabalho para assim uma melhor diversificacao de funcoes no grupo.
+A metodologia que usamos contemplou o uso de diversas ferramentas de trabalho para assim uma melhor diversificação de funcões no grupo.
 Foram utilizados: 
-Github para o controle de versao e repositorio de codigo, metodologia, documentacao e tudo aquilo que for feito no projeto
 
-Utilizamos o google forms para fazer uma entrevista com o nosso publico alvo, tendo juntamente a isto a entrevista presencial para uma melhor qualidade de resultados
+Github para o controle de versão e repositório de código, metodologia, documentação e tudo aquilo que for feito no projeto.
 
-O Miro foi utilizado para criar e discutir todo o processo de design thinking, todo este foi feito em maior parte presencialmente com todos do grupo e escrito em conjunto atraves da discussao de ideias e analise qualitativa das entrevistas, tanto as realizadas pessoalmente quanto aquelas quantitativas feitas pelo forms
+Utilizamos o google forms para fazer uma entrevista com o nosso público-alvo, tendo juntamente a isto a entrevista presencial para uma melhor qualidade de resultados
 
-Usamos o Figma para construir o userflow baseado nas ideias discutidas e concluidas atraves do Miro (persona e processo de design thinking) e tentar implementa-las de maneira funcional no site. Junto a isto no Figma tambem foi construido o Wireframe do projeto para servir como base para a construcao do template do site
+O Miro foi utilizado para criar e discutir todo o processo de design thinking, todo este foi feito em maior parte presencialmente com todos do grupo e escrito em conjunto atraves da discussão de ideias e análise qualitativa das entrevistas, tanto as realizadas pessoalmente quanto aquelas quantitativas feitas pelo forms
 
-Por fim durante todo o projeto tambem foi utilizado um grupo no discord para termos controle da divisao de tarefas e divisao de funcoes, estas cujo quais ficaram muito bem definidas sendo um membro lider de cada parte do projeto para guiar e delegar as funcoes relacionadas a sua parte para os outros membros do grupo
+Usamos o Figma para construir o userflow baseado nas ideias discutidas e concluídas através do Miro (persona e processo de design thinking) e tentar implementá-las de maneira funcional no site. Junto a isto no Figma também foi construido o Wireframe do projeto para servir como base para a construção do template do site.
 
-Decidimos alem disto utilizar o VSCode para escrevermos o codigo do programa
-E a ferramenta Trello foi decidida para fazer a divisao de tarefas que sera realizada durante a criacao do codigo do site
+Por fim durante todo o projeto também foi utilizado um grupo no discord para termos controle da divisão de tarefas e divisão de funções, estas cujo quais ficaram muito bem definidas sendo um membro líder de cada parte do projeto para guiar e delegar as funções relacionadas a sua parte para os outros membros do grupo.
 
-Utilizamos por fim o Google Presentation para fazer a criacao de slides de apresentacao para explicar o nosso projeto, que foi feito junto do Slidesgo onde foi retirado o modelo de apresentacao utilizado
+Decidimos além disto utilizar o VSCode para escrevermos o código do programa
+E a ferramenta Trello foi decidida para fazer a divisão de tarefas que será realizada durante a criação do código do site.
+
+Utilizamos por fim o Google Presentation para fazer a criação de slides de apresentação para explicar o nosso projeto, que foi feito junto do Slidesgo onde foi retirado o modelo de apresentação utilizado.
 
 ## Divisão de Papéis
 
@@ -349,7 +331,7 @@ Utilizamos por fim o Google Presentation para fazer a criacao de slides de apres
 
 ## Ferramentas
 
-Assim como explicado acima aqui estao o link das ferramentas utilizadas juntamente com o link do nosso projeto dentro delas
+Assim como explicado acima, abaixo se encontram os links das ferramentas utilizadas juntamente com o link do nosso projeto dentro delas:
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
@@ -369,23 +351,23 @@ Assim como explicado acima aqui estao o link das ferramentas utilizadas juntamen
 
 O site vai ser divido em versoes que utilizacao 3 digitos sendo estes:
 
-1 - Atualizacao master
+1 - Atualização master
 
-2 - Atualizacao parcial estavel
+2 - Atualização parcial estável
 
-3 - Atualizacao de bugfix ou atualizacao de codigo sem implementacao visual
+3 - Atualização de bugfix ou atualização de código sem implementação visual
 
-exemplo:
+Exemplo:
 
 2.5.1
 
-2 = Segunda grande implementacao estavel
+2 = Segunda grande implementação estável
 
-.5 = quinta parte de implementacao parcial, mas ainda nao caracteriza uma mudanca significativa
+.5 = Quinta parte de implementação parcial, mas ainda não caracteriza uma mudança significativa
 
-.1 = bugs corrigidos
+.1 = Bugs corrigidos
 
-Utilizaremos tambem algumas tags para o desenvolvimento
+Utilizaremos também algumas tags para o desenvolvimento:
 
 `master`: versão estável já testada do software
 
@@ -403,9 +385,9 @@ Utilizaremos tambem algumas tags para o desenvolvimento
 
 `description`: uma melhoria no sistema de comentarios do codigo
 
-`root`: uma modificacao na base do sistema
+`root`: uma modificação na base do sistema
 
-`branch`: uma modificacao que nao modifica outras partes do sistema
+`branch`: uma modificação que nao modifica outras partes do sistema
 
 
 # **############## SPRINT 1 ACABA AQUI #############**
