@@ -330,11 +330,12 @@ nosso site abrange publicos com caracteristicas que distinguem de procurar uma e
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+> Matheus - Repositório Github
+> Marcos Antônio - Repositório Github e Figma
+> Gabriel Ramos - Documentação
+> Dênis Soares - Documentação
+> João Vitor Romero - Apresentação slides, Figma e um pouco do Github
+> Gabriel Vinci - Apresentação slides
 
 
 ## Ferramentas
