@@ -88,7 +88,7 @@ O nosso software pretende ajudar qualquer pessoa que precise de otimizar sua rot
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Utilizando a template do Miro, montamos três personas que seriam possíveis clientes de nosso software, para que dessa forma tivessemos uma ideia mais clara sobre como o Planejy deve ser e quais utilidades essas personas precisam.
 
 > **Primeira Persona**
 > 
