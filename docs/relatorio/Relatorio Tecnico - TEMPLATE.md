@@ -7,7 +7,7 @@ A aplicação foi criada pensando justamente em ser rápida, fácil de utilizar 
 
 `Ciência da Computação` 
 
-A Ciência da Computação está amplamente inserida na sociedade contemporânea e exige profissionais em constante qualificação. O aluno aplica os conhecimentos de forma independente, inovadora e criativa, acompanhando a evolução do setor e contribuindo para a busca por novas soluções, por meio da participação em projetos de pesquisa sob a orientação de professores qualificados. 
+A Ciência da Computação está amplamente inserida na sociedade contemporânea e exige profissionais em constante qualificação. Na PUC Minas, o aluno aplica os conhecimentos de forma independente, inovadora e criativa, acompanhando a evolução do setor e contribuindo para a busca por novas soluções, por meio da participação em projetos de pesquisa sob a orientação de professores qualificados. 
 
 ## Participantes
 
