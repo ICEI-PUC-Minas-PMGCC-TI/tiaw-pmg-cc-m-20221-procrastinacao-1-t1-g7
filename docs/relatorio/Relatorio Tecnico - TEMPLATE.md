@@ -111,8 +111,15 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+| Fernanda | Precisa conciliar sua vida profissional e sua vida social           | Passar mais tempo com seus amigos  |
+| Fernanda       | Organizar os estudos da faculdade em atraso                 | Passar de semestre na faculdade |
+| Fernanda      | Não precisar desmarcar compromissos | Não parecer uma pessoa desleixada |
+| Bruno | Organizar melhor o seu horário de trabalho | Não ter muito trabalho se acumulando |
+| Bruno | Precisa ser mais produtivo e responsável | Produzir mais em menos tempo |
+| Bruno | Ter horários bem definidos | Ter um trabalho menos estressante |
+| Matheus | Organizar bem suas metas de vida | Conseguir enxergar claramente os seus objetivos |
+| Matheus | Organizar seu tempo | Parar de procrastinar |
+| Matheus | Definir uma rotina fixa | Facilitar a organização de suas tarefas |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
