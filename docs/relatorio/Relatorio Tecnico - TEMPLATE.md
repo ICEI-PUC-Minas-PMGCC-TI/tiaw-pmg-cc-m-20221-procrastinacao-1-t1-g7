@@ -80,11 +80,7 @@ O nosso software pretende ajudar qualquer pessoa que precise de otimizar sua rot
 
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+Para garantir produtividade e avanço em nosso projeto, utilizamos primeiramente técnicas para melhor entendimento e discussão do problema, como a Matriz de Alinhamento CSD, Mapa de Stakeholders e a criação de personas. Em seguida, montamos questões por meio do google forms, para nos guiar nas conversas com os voluntários que nos ajudariam a entender melhor o que as pessoas com essa dor enfrentam. Após entender melhor o problema sobre o qual trataremos, utilizamos métodos de Brainstorming para organizar nossas ideias para o software, anotando tudo com a template disponibilizada no Miro. A descrição mais detalhada das ferramentas utilizadas em todo o processo, se encontra em [Ferramentas](#ferramentas).
 
 ## Personas e Mapas de Empatia
 
