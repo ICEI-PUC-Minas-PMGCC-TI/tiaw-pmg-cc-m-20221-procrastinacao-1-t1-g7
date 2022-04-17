@@ -345,8 +345,7 @@ nosso site abrange publicos com caracteristicas que distinguem de procurar uma e
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro | https://miro.com/app/board/uXjVOAUNaP0=/ | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
+|Repositório de código | GitHub | https://github.com/XXXXXXX |
 |Protótipo Interativo | Figma | https://www.figma.com/file/U4ycqEjCBOnQNSwdEny9Kf/Untitled?node-id=6%3A1339 | 
 |Editor de código | VSCode | https://code.visualstudio.com | 
 |Comunicação entre o grupo | Discord | https://discord.gg/bvRCNbwk |
