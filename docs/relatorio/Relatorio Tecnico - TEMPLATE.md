@@ -349,7 +349,7 @@ Assim como explicado acima, abaixo se encontram os links das ferramentas utiliza
 
 ## Controle de Versão
 
-O site vai ser divido em versoes que utilizacao 3 digitos sendo estes:
+O site vai ser divido em versões que utilizarão 3 dígitos, sendo estes:
 
 1 - Atualização master
 
