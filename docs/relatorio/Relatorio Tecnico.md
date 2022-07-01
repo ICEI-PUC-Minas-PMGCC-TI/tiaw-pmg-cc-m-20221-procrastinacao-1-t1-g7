@@ -129,15 +129,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Relatório de produtividade | ALTA |
-|RF-002| Controle de frequência de notificação | ALTA |
+|RF-001| Relatório de produtividade | BAIXA |
+|RF-002| Controle de frequência de notificação | MEDIA |
 |RF-003| Nivel de complexidade customizável | BAIXA |
-|RF-004| Página com artigos | ALTA |
+|RF-004| Página com artigos | MÉDIA |
 |RF-005| Utilização de paleta de cores pastel | ALTA |
 |RF-006| Calendário com lembretes | ALTA |
-|RF-007| Relatório de produtividade | ALTA |
+|RF-007| Relatório de produtividade | BAIXA |
 |RF-008| Planner | ALTA |
-|RF-009| Diferentes notificações e anotações | ALTA |
+|RF-009| Diferentes notificações e anotações | BAIXA |
 |RF-010| Temas diferentes para o site | BAIXA |
 |RF-011| Contato de especialistas e profissionais | MÉDIA |
 |RF-012| Integração multiplataforma | BAIXA |
