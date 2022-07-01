@@ -164,7 +164,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
-|03| O projeto deve utilizar apenas HTML, CSS, JV          |
+|03| O projeto deve utilizar apenas HTML, CSS, JS          |
 |04| O projeto deve ser feito utilizando metodologias      |
 |05| A evolução do projeto deve ser feita em reunião       |
 
