@@ -1,0 +1,125 @@
+:root {
+    --dgd-top-light: #e8e3eeba;
+    --dgd-bottom-light: #a298afbb;
+    --bg-light: #e8e3ee;
+    --dgd-bottom-dark: #a79cb688;
+    --bg-medium: #a79cb688;
+    --bg-dark: #a79cb688;
+    --dgd-top-dark: #614f75be;
+    --txt-primary: #614f75be;
+    --txt-secondary: #614f75be;
+    --white: #fff;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("../images/fundo_Login.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.txt-primary {
+    color: var(--txt-primary);
+}
+
+.txt-secondary {
+    color: var(--txt-secondary);
+}
+
+
+/* Header */
+
+.header {
+    position: relative;
+    height: 10vh;
+}
+
+.logged-box {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5rem;
+    width: 15rem;
+    background-color: var(--bg-light);
+    border-radius: 10px;
+}
+
+.logged-box h1 {
+    font-size: 1.8rem;
+    margin: 0;
+    color: var(--txt-secondary);
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+
+/* Box Main */
+
+.back-box {
+    position: absolute;
+    width: 3rem;
+    top: 1rem;
+    left: 1rem;
+}
+
+.back-box:hover {
+    cursor: pointer;
+}
+
+.fa-angle-left {
+    color: var(--txt-secondary);
+    font-size: 2.5rem;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+
+/* Buttons */
+
+.buttons-box {
+    display: flex;
+    justify-content: center;
+    gap: 2vw;
+    margin-top: 5vh;
+}
+
+.btn-box button {
+    font-size: 1.2rem;
+}
+
+
+/* Footer */
+
+.footer {
+    position: fixed;
+    width: 100vw;
+    bottom: 0;
+    margin-top: auto;
+}
+
+.copyright-box {
+    text-align: center;
+}
+
+.copyright-box span {
+    color: var(--txt-secondary);
+}
