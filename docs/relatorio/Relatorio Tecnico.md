@@ -447,7 +447,10 @@ O calendario possui acesso para mais duas partes, sendo estas
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
+Apresentamos aqui o diagrama do funcionamento do site no atual momento
+Levando-se em conta a limitação de nao poder ser usado backend
+
+![Driagrama](images/Driagrama.jpg)
 
 > Inclua um diagrama da solução e descreva os módulos e as tecnologias
 > que fazem parte da solução. Discorra sobre o diagrama.
