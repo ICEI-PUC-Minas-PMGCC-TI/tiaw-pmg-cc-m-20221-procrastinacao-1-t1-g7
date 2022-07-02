@@ -463,9 +463,11 @@ Na tela de login foram feitos diversos testes e tratamentos de erros, aqui apres
 ![Erros1](images/tratamento1.jpg)
 ![Erros2](images/tratamento2.jpg)
 
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
+Na tela de cadastro de notas podemos mostrar aqui os tratamentos de erros são prevenidos por funções nativas do html que controlam a entrada de dados apresentando automaticamente um calendario para escolha da data que automaticamente rejeita tadas invalidas + um relogio onde você pode selecionar a hora clicando que automaticamente corrige valores invalidos
+As cores das notas são controladas pelo tipo de dado que você escolhe, como trabalho, dia-a-dia, lazer e estudo
+
+![Erros3](images/addNotes.jpg)
+
 
 ## Plano de Testes
 
