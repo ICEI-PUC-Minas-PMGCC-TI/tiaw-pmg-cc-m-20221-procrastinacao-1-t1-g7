@@ -471,36 +471,14 @@ As cores das notas são controladas pelo tipo de dado que você escolhe, como tr
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Os planos de testes foram detalhados no topico acima, eles foram feitos atraves inicialmente de um planejamento de possiveis erros, em seguida uma pesquisa de testes necessarios, em seguida a implementação junto com testes paralelos e por fim uma bateria de testes realizado por 5 pessoas diferentes para se achar possiveis erros ou falhas junto com suas posteriores correções.
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-
-## Ferramentas de Testes (Opcional)
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Na pagina de Login foram encontrados muitas formas diferentes de falha de entrada, em sua maioria foram feitos tratamentos que prevenissem a inserção de dados de diferentes tipos, assim também prevenindo diversas falhas de segurança. Alguns tipos de erros não são necessarios fazer tratamento devido as suas essências como por exemplo alguem tentando recuperar uma conta que nem sequer foi criada, sempre sera apresentado um erro de conta não encontrada, sendo que todos os sites funcionam com está arquitetura erros como estes não precisam ser tratados.
 
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
+Dentro do site existem outros erros possiveis como a inserção de dados invalidos na criação das notas do calendario, estes erros são prevenidos com a opção do usuario entrar com o dado atraves de um mini calendario, selencionando manualmente o dia em vez de digita-lo e também o mesmo para a hora sendo selecionada em um relogio, lembra-se que cada uma dessas funcionalidades é herdada do browser que estiver sendo utilizado se tornando não possivel trata-las caso o browser não possua esta opção. Para evitar a inserção de mes no lugar do dia e vice versa é feito uma sugestão de dados em forma de placeholder e controle de tipagem com pattern, mas ainda não é possivel identificar possiveis falhas caso a pessoa não se atente ou a conversão automatica de dados do browser falhe.
 
 
 # Referências
