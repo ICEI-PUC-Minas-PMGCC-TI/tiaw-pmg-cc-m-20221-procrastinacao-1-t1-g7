@@ -1,0 +1,234 @@
+/* Box Main */
+
+.box-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 4vh;
+}
+
+
+/* Bottom Side */
+
+.register-content {
+    align-items: center;
+}
+
+.title-box {
+    margin-top: 1rem;
+    padding-left: 15%;
+}
+
+.title-box h2 {
+    font-size: 2.2rem;
+    color: var(--txt-primary);
+}
+
+
+/* Left Side */
+
+.left-side {
+    height: 100%;
+}
+
+
+/* Register Box */
+
+.register-box {
+    /* width: 25vw; */
+    padding-bottom: 30px;
+    /* min-height: 300px; */
+    min-width: calc(250px + 5vw);
+    border-radius: 20px;
+    background-color: var(--bg-light);
+    box-shadow: 1px 1px 20px 1px rgba(0, 0, 0, 0.6);
+    overflow-y: visible;
+    overflow-x: hidden;
+}
+
+.register-box:first-child {
+    justify-content: left;
+}
+
+
+/* Image */
+
+.img-box {
+    height: 20vh;
+    min-height: 150px !important;
+}
+
+#register-img {
+    width: 100%;
+    height: 100%;
+    border-radius: 15px 15px 0 0;
+}
+
+
+/* Form */
+
+.form-register {
+    display: flex;
+    flex-direction: column;
+    gap: 2vh;
+    margin-top: 3vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-box {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+}
+
+.input-box input {
+    width: 70%;
+}
+
+.create-account {
+    margin: 1vh 0;
+}
+
+.confirmpasswd-box {
+    position: relative;
+}
+
+
+/* Buttons */
+
+.btn-box {
+    text-align: center;
+    width: 100%;
+}
+
+.btn-box button {
+    width: 50%;
+}
+
+
+/* Eyes Icons */
+
+.eye-icon {
+    position: absolute;
+    top: 30%;
+    right: 18%;
+    z-index: 999;
+}
+
+.eye-icon button {
+    display: block;
+    background: transparent;
+    border: none;
+    padding: 0;
+    color: rgba(0, 0, 0, 0.4);
+}
+
+.eye-icon button:hover {
+    color: rgba(0, 0, 0, 0.6);
+}
+
+#hide-passwd {
+    display: none;
+}
+
+
+/* Separator Line */
+
+hr {
+    width: 80%;
+}
+
+.separator {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* Bottom Register */
+
+.register-bottom {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.register-bottom:first-child {
+    text-align: left;
+}
+
+.register-bottom h4 {
+    color: var(--txt-primary);
+}
+
+
+/* Right Side */
+
+.right-side {
+    border-radius: 30px;
+    height: 100%;
+}
+
+.right-side img {
+    border-radius: 100px;
+    width: 100%;
+    height: 100%;
+    padding: 0 2rem;
+}
+
+
+/* Media Queries*/
+
+@media screen and (max-height: 615px) {
+    .form-register {
+        margin-top: 0;
+    }
+    .title-box {
+        margin-top: 0.5rem;
+    }
+    .create-account,
+    .title-box {
+        margin: 0;
+    }
+}
+
+@media screen and (max-height: 720px) {
+    .register-bottom {
+        display: none;
+    }
+}
+
+@media screen and (max-height: 780px) {
+    .separator {
+        display: none;
+    }
+}
+
+@media screen and (max-height: 840px) {
+    .register-bottom h4 {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 319px) {
+    .title-box {
+        padding: 0;
+        text-align: center;
+    }
+    .title-box h2 {
+        font-size: 2rem;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 480px) {
+    .title-box {
+        padding: 0;
+        text-align: center;
+    }
+    .title-box h2 {
+        font-size: 2rem;
+    }
+}

@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8">
+    <title>Artigos</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+
+<body class="fullHeight">
+    <header>
+        <nav class="navbar navbar-expand-md navbar-light fundoEscuro" style="min-height: 64px; position: fixed; z-index: 9999; width: 100vw;">
+            <div class="container-fluid max_menu_size">
+                <button id="collapse_Button" style="border: 0px;" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarButtonsExample" data-mdb-toggle="collapse" data-mdb-target="#navbarButtonsExample" aria-controls="navbarButtonsExample"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <i class="bi bi-caret-down-square-fill" style="color: white; font-size: 26px;"></i>
+                </button>
+                <a>
+                    <img src="images/Logo.png" alt="Logo" width="40" height="40" id="logo_position">
+                </a>
+                <div class="collapse navbar-collapse" id="navbarButtonsExample" style="z-index: 9999;">
+                    <div class="col-sm-12 col-md-8">
+                        <ul class="navbar-nav mb-md-0 navbar_collapse">
+                            <!-- Notas -->
+                            <li class="nav-item">
+                                <div class="dropdown" id="dropdown">
+                                    <button class="btn btn-sm  btn dropdown" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                                    <p class="Navbar_words">Notas</p>
+                                </button>
+                                    <ul class="dropdown-menu fundoBranco" id="max_menu_size" aria-labelledby="dropdownMenuButton1">
+                                        <li><a class="dropdown-item" href="#">Nota 1</a></li>
+                                        <li><a class="dropdown-item" href="#">Nota 2</a></li>
+                                        <li><a class="dropdown-item" href="#">Nota 3</a></li>
+                                        <li><a class="dropdown-item" href="#">Nota 4</a></li>
+                                        <div class="dropdown-divider"></div>
+                                        <li><a class="dropdown-item" href="#">Nota 5</a></li>
+                                        <li><a class="dropdown-item" href="#">Nota 6</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <div class="dropdown-divider line_Size" id="aparecer_linha" style="display: none;"></div>
+                            <!-- Projetos -->
+                            <li class="nav-item">
+                                <div class="dropdown" id="dropdown">
+                                    <button class="btn btn-sm  btn dropdown" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                                    <p class="Navbar_words">Projetos</p>
+                                </button>
+                                    <ul class="dropdown-menu fundoBranco" id="max_menu_size" aria-labelledby="dropdownMenuButton1">
+                                        <li><a class="dropdown-item" href="#">Projeto 1</a></li>
+                                        <li><a class="dropdown-item" href="#">Projeto 2</a></li>
+                                        <li><a class="dropdown-item" href="#">Projeto 3</a></li>
+                                        <li><a class="dropdown-item" href="#">Projeto 4</a></li>
+                                        <div class="dropdown-divider"></div>
+                                        <li><a class="dropdown-item" href="#">Projeto 5</a></li>
+                                        <li><a class="dropdown-item" href="#">Projeto 6</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <div class="dropdown-divider line_Size" id="aparecer_linha" style="display: none;"></div>
+                            <!-- Membros -->
+                            <li class="nav-item">
+                                <div class="dropdown" id="dropdown">
+                                    <button class="btn btn-sm  btn dropdown" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                                    <p class="Navbar_words">Membros</p>
+                                </button>
+                                    <ul class="dropdown-menu fundoBranco" id="max_menu_size" aria-labelledby="dropdownMenuButton1">
+                                        <li><a class="dropdown-item" href="#">Membro 1</a></li>
+                                        <li><a class="dropdown-item" href="#">Membro 2</a></li>
+                                        <li><a class="dropdown-item" href="#">Membro 3</a></li>
+                                        <li><a class="dropdown-item" href="#">Membro 4</a></li>
+                                        <div class="dropdown-divider"></div>
+                                        <li><a class="dropdown-item" href="#">Membro 5</a></li>
+                                        <li><a class="dropdown-item" href="#">Membro 6</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <div class="dropdown-divider line_Size" id="aparecer_linha" style="display: none;"></div>
+                            <!-- Configuracoes -->
+                            <li class="nav-item">
+                                <div class="dropdown" id="dropdown">
+                                    <button class="btn btn-sm  btn dropdown" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                                    <p class="Navbar_words">Configuracoes</p>
+                                </button>
+                                    <ul class="dropdown-menu fundoBranco" id="max_menu_size" aria-labelledby="dropdownMenuButton1">
+                                        <li><a class="dropdown-item" href="#">Configuracao 1</a></li>
+                                        <li><a class="dropdown-item" href="#">Configuracao 2</a></li>
+                                        <li><a class="dropdown-item" href="#">Configuracao 3</a></li>
+                                        <li><a class="dropdown-item" href="#">Configuracao 4</a></li>
+                                        <div class="dropdown-divider"></div>
+                                        <li><a class="dropdown-item" href="#">Configuracao 5</a></li>
+                                        <li><a class="dropdown-item" href="#">Configuracao 6</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-12 col-md-4" id="responsive_input3">
+                        <div class="form-group has-search" id="responsive_input2">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="currentColor" class="bi bi-search fa fa-search form-control-feedback" viewBox="0 0 16 16">
+                                <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
+                                </svg>
+                            <input type="text" class="form-control" placeholder="Pesquisar" id="responsive_input">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <sidebar>
+        <div class="offcanvas offcanvas-start w-auto fundoBemMaisEscuro sidebarHeight" tabindex="-1" id="offcanvas" data-bs-keyboard="false" data-bs-backdrop="false" style="z-index: 1;">
+            <div class="offcanvas-body px-0">
+                <ul class="nav nav-pills flex-column mb-sm-auto mb-0 align-items-start siderbarMargin" id="menu">
+                    <li class="dropdown sidebarwidth border-bottom" id="bordertest">
+                        <div class="collapse show" id="home-collapse">
+                            <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small" style="padding-left: 13px;">
+                                <li><a href="#" class="link-light rounded"><i class="bi bi-gear-wide-connected" style="padding-right: 5px;"></i>Configuracoes</a></li>
+                                <li><a href="#" class="link-light rounded"><i class="bi bi-app-indicator" style="padding-right: 5px;"></i>Updates</a></li>
+                                <li><a href="#" class="link-light rounded"><i class="bi bi-exclamation-circle" style="padding-right: 5px;"></i>Reports</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="dropdown sidebarwidth">
+                        <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#favoritos-collapse" aria-expanded="true" style="color: white;">
+                            <i class="bi bi-star"></i><span class="ms-1 d-sm-inline">Favoritos</span>
+                        </button>
+                        <div class="collapse show" id="favoritos-collapse">
+                            <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small" style="padding-left: 38px;">
+                                <li><a href="#" class="link-light rounded">Empresa</a></li>
+                                <li><a href="#" class="link-light rounded">Marketing</a></li>
+                                <li><a href="#" class="link-light rounded">Feriados</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="dropdown sidebarwidth">
+                        <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#times-collapse" aria-expanded="true" style="color: white;">
+                            <i class="bi bi-people"></i><span class="ms-1 d-sm-inline">Times</span>
+                        </button>
+                        <div class="collapse show" id="times-collapse">
+                            <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small" style="padding-left: 38px;">
+                                <li><a href="#" class="link-light rounded">Produto</a></li>
+                                <li><a href="#" class="link-light rounded">Suporte</a></li>
+                                <li><a href="#" class="link-light rounded">Design</a></li>
+                                <li><a href="#" class="link-light rounded">Marketing</a></li>
+                                <li><a href="#" class="link-light rounded">Desenvolvimento</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="dropdown sidebarwidth">
+                        <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#planos-collapse" aria-expanded="true" style="color: white;">
+                            <i class="bi bi-list-task"></i><span class="ms-1 d-sm-inline">Planos</span>
+                        </button>
+                        <div class="collapse show" id="planos-collapse">
+                            <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small" style="padding-left: 38px;">
+                                <li><a href="#" class="link-light rounded">Contratar</a></li>
+                                <li><a href="#" class="link-light rounded">Pessoas</a></li>
+                                <li><a href="#" class="link-light rounded">Notificacoes</a></li>
+                                <li><a href="#" class="link-light rounded">Aplicativos</a></li>
+                                <li><a href="#" class="link-light rounded">Feriados</a></li>
+                                <li><a href="#" class="link-light rounded">Viagem de trabalho</a></li>
+                                <li><a href="#" class="link-light rounded">Marketing</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="dropdown sidebarwidth">
+                        <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#arquivos-collapse" aria-expanded="true" style="color: white;">
+                            <i class="bi bi-archive"></i><span class="ms-1 d-sm-inline">Arquivos (0)</span>
+                        </button>
+                        <div class="collapse show" id="arquivos-collapse">
+                            <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small" style="padding-left: 38px;">
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <footer class="fixedFooter" id="desaparecer">
+                <p style="color: white; height: 5px; padding: 0px 15px; transform: translate(0px, -5px);">&copy; 2022 - Planejy - T1G7</p>
+            </footer>
+        </div>
+    </sidebar>
+
+    <main>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-auto fundoMaisEscuro sidebarHeight2" style="position: fixed; margin-top: 64px; z-index: 9998;">
+                    <div class="d-flex flex-column align-items-center" style="max-width: 40px !important;">
+                        <ul class="nav nav-pills nav-flush flex-column flex-nowrap mb-auto text-center align-items-center">
+                            <li>
+                                <a class="nav-link py-3 btn" style="color: white;">
+                                    <i class="bi bi-caret-right-square-fill fs-3" data-bs-toggle="offcanvas" data-bs-target="#offcanvas"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="../Calendario/Calendario.html" class="nav-link py-3" title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Calendario" style="color: white;">
+                                    <i class="bi bi-calendar-week fs-3"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="../Calendario/Calendario.html" class="nav-link py-3" title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Notas" style="color: white;">
+                                    <i class="bi bi-stickies fs-3"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="../Artigos/Artigos.html" class="nav-link py-3" title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Artigos" style="color: white;">
+                                    <i class="bi bi-book-half fs-3"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="../Configuracoes/index.html" class="nav-link py-3" title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Configuracoes" style="color: white;">
+                                    <i class="bi bi-gear fs-3"></i>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="dropdown">
+                            <a href="#" class="d-flex align-items-center justify-content-center p-3 link-dark text-decoration-none" id="dropdownUser3" data-bs-toggle="dropdown" aria-expanded="false" style="color: white;">
+                                <i class="bi-person-circle h2"></i>
+                            </a>
+                            <ul class="dropdown-menu text-small" aria-labelledby="dropdownUser3" style="z-index: 999;">
+                                <li><a class="dropdown-item" href="../Configuracoes/index.html">Perfil</a></li>
+                                <li><a class="dropdown-item" href="../Configuracoes/index.html">Personalização</a></li>
+                                <li><a class="dropdown-item" href="../index.html" onclick="logout()">Sair</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col scrollbar scrollbar-near-moon bordered-near-moon thin" style="overflow: auto; height: calc(100vh - 64px); width: calc(100vw - 64px); margin: 64px 0px 0px 64px;">
+                    <div class="row gy-3 inner_content">
+                        <div class="container-fluid">
+                            <div class="card">
+                                <div class="card-header" style="margin: 0px;">
+                                    <h1>Cadastro de Configurações</h1>
+                                </div>
+                                <div class="container-fluid">
+                                    <div class="row">
+                                        <div id="msg" class="col-sm-10 offset-sm-1 "></div>
+                                    </div>
+
+                                    <form id="form-contato">
+                                        <div class="form-group row">
+                                            <div class="col-sm-4" style="margin-bottom: 15px;">
+                                                <label for="inputId">Id</label>
+                                                <input type="text" class="form-control" id="inputId" placeholder="386179-5" disabled>
+                                            </div>
+                                            <div class="col-sm-8" style="margin-bottom: 15px;">
+                                                <label for="inputNome">Nome *</label>
+                                                <input type="text" class="form-control" id="inputNome" name="inputNome" autocomplete="off" required placeholder="Informe o nome de usuário">
+                                                <span id="instrucoes"></span>
+                                            </div>
+                                        </div>
+                                        <div class="form-group row">
+                                            <div class="col-sm-5" style="margin-bottom: 15px;">
+                                                <label for="inputTelefone">Telefone *</label>
+                                                <input type="text" class="form-control" id="inputTelefone" name="inputTelefone" autocomplete="off" pattern="^\(?[1-9]{2}\)? ?(?:[2-8]|9[1-9])[0-9]{3}\-?[0-9]{4}$" required placeholder="Telefone">
+                                                <span id="instrucoes"></span>
+                                            </div>
+                                            <div class="col-sm-7" style="margin-bottom: 15px;">
+                                                <label for="inputEmail">E-mail *</label>
+                                                <input type="email" class="form-control" id="inputEmail" name="inputEmail" autocomplete="off" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" title="Ex.: john@planejy.com" required placeholder="Informe o e-mail">
+                                                <span id="instrucoes"></span>
+                                            </div>
+                                        </div>
+                                        <div class="form-group row">
+                                            <div class="col-sm-3" style="margin-bottom: 15px;">
+                                                <label for="inputIdade">Idade *</label>
+                                                <input type="text" class="form-control" id="inputIdade" name="inputIdade" autocomplete="off" required placeholder="Informe a idade">
+                                                <span id="instrucoes"></span>
+                                            </div>
+                                            <div class="col-sm-9" style="margin-bottom: 15px;">
+                                                <small id="float_config">* Campos obrigatórios</small>
+                                            </div>
+                                        </div>
+                                        <div class="form-group row">
+                                            <div class="col-sm-12" style="margin-bottom: 15px;">
+                                                <a class="btn btn-info" id="fullsizebtn" href="../../login-page/assets/passwd-recovery.html" role="button">Alterar Senha</a>
+                                            </div>
+                                        </div>
+                                        <div class="form-group row justify-content-between">
+                                            <div class="col-sm-6" style="margin-bottom: 15px;">
+                                                <div class="dropdown" id="fullsizebtn">
+                                                    <button class="btn dropdown-toggle btn-secondary" type="button" id="fullsizebtn" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                                                    Alterar Idioma</button>
+                                                    <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1" id="fullsizedropdown">
+                                                        <li><a class="dropdown-item">Português</a></li>
+                                                        <li><a class="dropdown-item" href="Index(english).html">English</a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6" style="margin-bottom: 15px;">
+                                                <span id="float_config">
+                                                    <button type="submit"  class="btn btn-success fullsizebtn2" id="btnSave">Salvar</button>
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <div class="card text-center">
+                                <div class="card-header">
+                                    <h2>Personalização</h2>
+                                </div>
+                                <div class="card-body">
+                                    <h5 class="card-title">Personalize e use os seus premios</h5>
+                                    <div class="margin_text">
+                                        <p class="card-text">Você sabia que cumprindo com os objetivos voce acumula pontos?</p>
+                                        <p class="card-text">Você pode gasta-los com configuracoes personalizadas como planos de fundo, icones e temas personalizados apenas para voce!</p>
+                                        <a href="#" class="btn btn-primary">Personalizar!</a>
+                                    </div>
+                                </div>
+                                <div class="card-footer text-muted">Pontuacao acumulada: <strong>0 pontos</strong></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    <script src="scripts/script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+</body>
+
+<html>
