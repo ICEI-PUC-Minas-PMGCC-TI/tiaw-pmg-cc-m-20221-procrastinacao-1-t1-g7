@@ -483,11 +483,27 @@ Dentro do site existem outros erros possiveis como a inserção de dados invalid
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Por fim fica aqui nosso agradecimento a todos os envolvidos que participaram dos testes de persona em campo, ideias, testagem, dicas e ajuda na produção.
+Além dos professores guias que nos ajudaram a produzir o trabalho, sendo estes:
+> Rommel Carneiro
+> Carlos Pietrobon
 
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+Segue a lista de referencias utilizadas no desenvolvimento do trabalho:
+
+> https://getbootstrap.com
+> https://mdbootstrap.com
+> https://www.javascript.com
+> https://fullcalendar.io
+> https://jquery.com
+> https://www.w3.org/html
+> https://www.w3schools.com
+> https://replit.com/
+> https://www.adobe.com/
+> https://www.miro.com/
+> https://github.com
+> https://www.figma.com
+>	https://code.visualstudio.com
+>	https://discord.com
+>	https://workspace.google.com/google/forms
+>	https://slidesgo.com
+>	https://workspace.google.com/intl/pt-BR/products/slides
