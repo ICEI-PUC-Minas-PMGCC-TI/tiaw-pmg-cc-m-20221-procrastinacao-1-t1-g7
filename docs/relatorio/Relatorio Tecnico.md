@@ -429,10 +429,21 @@ IDE's gratuita criada pela Microsoft que apresenta uma quantidade muito grande d
 
 As tecnologias fundamentais para a utilização do usuario são o html/css/bootstrap que estarão onipresentes em todo o momento em que o usuario estiver utilizando a aplicação. O javascript ira aparecer de 3 formas distintas, sendo estas primeiro durante o cadastro do usuario para tratamento de erros e registro das informações em Local Storage, segundo para a implementação do calendario e coração da aplicação fazendo o cadastro e apresentação das notas que o usuario configurar e por ultimo para a configuração personalizada do usuario, sendo este usuario unico atraves de sua conta.
 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
+Aqui podemos ver o User Flow da movimentação do usuario no site e pelas suas paginas
+![UserFlow](images/WireframeReal.jpg)
+
+Como pode ser visto o site se resume em uma tela separada de Login com diversos pontos como Descrição da empresa, Criação da conta, Recuperação de Senha e o mais importante o proprio Login
+![Login](images/Login1.jpg)
+
+Em seguida o coração do site esta no calendario junto com o cadastro de notas que pode ser visto aqui:
+![Calendario](images/Calendario1.jpg)
+
+O calendario possui acesso para mais duas partes, sendo estas
+1 - A tela de Artigos
+![Artigos](images/Artigos1.jpg)
+
+2 - A tela de configurações do usuario
+![Configuracoes](images/Configuracoes1.jpg)
 
 ## Arquitetura da solução
 
