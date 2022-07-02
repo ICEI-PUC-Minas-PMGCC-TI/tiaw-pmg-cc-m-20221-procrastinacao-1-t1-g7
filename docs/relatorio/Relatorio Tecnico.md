@@ -322,7 +322,7 @@ Utilizamos por fim o Google Presentation para fazer a criação de slides de apr
 
 > Gabriel Ramos - Documentação
 
-> Dênis Soares - Documentação
+> Dênis Soares - Documentação (saiu do curso)
 
 > João Vitor Romero - Apresentação slides, Figma e um pouco do Github
 
@@ -395,20 +395,40 @@ Utilizaremos também algumas tags para o desenvolvimento:
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Para produzir nosso trabalho nos pensamos em plataformas ja existentes do mercado que geralmente deixam a desejar para aqueles que a usam.
+Trabalhamos totalmente em cima do resultado obtido pela pesquisa que dizia o quanto todos percebiam a diferença que organizar melhor seu tempo faz em sua vida profissional e pessoal em diferentes aspectos e tentamos deixar isso claro na imagem do nosso trabalho como por exemplo a implementação da tela de artigos e a utilização de pontos por cumprimento de tarefas para criar um maior vinculo entre cliente/plataforma.
+Usamos inicialmente um projeto open sorce criado pela microsoft para criação do calendario e modificamos ele de acordo com nossas necessidades.
+O site visa ter uma aparencia semelhante as ferramentas de uso diario daqueles que trabalham com computação como, outlook, visual code, canvas e etc. Para que assim seja facil do usuario se acostumar com a aplicação.
+As tecnologias usadas serão apresentadas e detalhadas abaixo.
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Foram utilizados para a criação da aplicação:
 
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
+> HTML e CSS:
+sendo estes o kit basico de criaçao de qualquer aplicação web
+
+> BOOTSTRAP:
+O uso do boostrap foi indispensavel para manter um padrão visual entre todo o site, sendo este principalmente minimalista e com uma paleta de cores em tom pastel para que seja leve para a vista e facil de se acostumar, trazendo uma sensação de calma e prosperidade, sendo assim de facil a implementação atraves do bootstrap. Mas é importante dizer que o boostrap foi utilizado apenas como complemento ao CSS
+
+> MDBOOTSTRAP.COM:
+Utilizamos esta biblioteca de boostrap para minimizar ao maximo qualquer chance de bug ou incompatibilidade entre componentes
+
+> JAVASCRIPT:
+Tirando o calendario todo o javascript do site foi criado personalizado e a mao de acordo com a necessidade da pagina, todos os dados foram armazenados em localstorage para assim ter uma facil conversa entre as paginas do site, seja para fazer o controle de permissão, levar dados do usuario de um lugar para o outro ou para fazer a interação entre os dados do usuario e o javascript do calendario.
+
+> FullCalendar.io:
+Projeto OpenSource criado pela microsoft para um calendario automatizado e de facil controle e implementação para sistemas proprios.
+O mesmo foi modificado para as necessidades da nossa aplicação
+
+> Repl.it:
+Plataforma online para publicação de dominios web de forma gratuita, foi utilizada para fazer os testes no nosso site de forma que se apresentasse igualmente para todos os desenvolvedores, sem que houvesse incompatibilidade entre sistemas e IDE's. Além de permitir a apresentação de uma previa do site.
+
+> Visual Studio Code:
+IDE's gratuita criada pela Microsoft que apresenta uma quantidade muito grande de ferramentas que facilitam o trabalho para a criação e desenvolvimento de um site, principalmente através de suas extenções como o Live Server que permite a visualização do site em tempo de edição do codigo. Todo o conteudo do site foi escrito e produzido dentro do VSCode.
+
+As tecnologias fundamentais para a utilização do usuario são o html/css/bootstrap que estarão onipresentes em todo o momento em que o usuario estiver utilizando a aplicação. O javascript ira aparecer de 3 formas distintas, sendo estas primeiro durante o cadastro do usuario para tratamento de erros e registro das informações em Local Storage, segundo para a implementação do calendario e coração da aplicação fazendo o cadastro e apresentação das notas que o usuario configurar e por ultimo para a configuração personalizada do usuario, sendo este usuario unico atraves de sua conta.
+
 > Inclua os diagramas de User Flow, esboços criados pelo grupo
 > (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
 > item textualmente comentando e complementando o que está apresentado
@@ -428,7 +448,9 @@ Utilizaremos também algumas tags para o desenvolvimento:
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Na tela de login foram feitos diversos testes e tratamentos de erros, aqui apresentamos eles:
+![Erros1](images/tratamento1.jpg)
+![Erros2](images/tratamento2.jpg)
 
 > Apresente os cenários de testes utilizados na realização dos testes da
 > sua aplicação. Escolha cenários de testes que demonstrem os requisitos
