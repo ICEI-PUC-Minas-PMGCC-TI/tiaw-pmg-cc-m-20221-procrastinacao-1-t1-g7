@@ -427,6 +427,12 @@ Plataforma online para publicação de dominios web de forma gratuita, foi utili
 > Visual Studio Code:
 IDE's gratuita criada pela Microsoft que apresenta uma quantidade muito grande de ferramentas que facilitam o trabalho para a criação e desenvolvimento de um site, principalmente através de suas extenções como o Live Server que permite a visualização do site em tempo de edição do codigo. Todo o conteudo do site foi escrito e produzido dentro do VSCode.
 
+> Photoshop:
+Para a edição de imagens utilizadas no site
+
+> Jquery:
+Para uma melhor organização do javascript e funcionalidades
+
 As tecnologias fundamentais para a utilização do usuario são o html/css/bootstrap que estarão onipresentes em todo o momento em que o usuario estiver utilizando a aplicação. O javascript ira aparecer de 3 formas distintas, sendo estas primeiro durante o cadastro do usuario para tratamento de erros e registro das informações em Local Storage, segundo para a implementação do calendario e coração da aplicação fazendo o cadastro e apresentação das notas que o usuario configurar e por ultimo para a configuração personalizada do usuario, sendo este usuario unico atraves de sua conta.
 
 Aqui podemos ver o User Flow da movimentação do usuario no site e pelas suas paginas
@@ -491,19 +497,35 @@ Além dos professores guias que nos ajudaram a produzir o trabalho, sendo estes:
 Segue a lista de referencias utilizadas no desenvolvimento do trabalho:
 
 > https://getbootstrap.com
+
 > https://mdbootstrap.com
+
 > https://www.javascript.com
+
 > https://fullcalendar.io
+
 > https://jquery.com
+
 > https://www.w3.org/html
+
 > https://www.w3schools.com
+
 > https://replit.com/
+
 > https://www.adobe.com/
+
 > https://www.miro.com/
+
 > https://github.com
+
 > https://www.figma.com
+
 >	https://code.visualstudio.com
+
 >	https://discord.com
+
 >	https://workspace.google.com/google/forms
+
 >	https://slidesgo.com
+
 >	https://workspace.google.com/intl/pt-BR/products/slides
