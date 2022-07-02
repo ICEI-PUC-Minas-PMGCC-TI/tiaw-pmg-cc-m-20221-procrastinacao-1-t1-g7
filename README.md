@@ -17,3 +17,8 @@ A aplicação foi criada pensando justamente em ser rápida, fácil de utilizar 
 
 ## Instruções de utilização
 
+O site esta disponivel pelo repl.it atraves do link:
+> https://planejy.repl.co
+
+Também é possivel acessa-lo baixando os arquivos dentro do diretorio que esta presente aqui no Github
+> Conteudo
