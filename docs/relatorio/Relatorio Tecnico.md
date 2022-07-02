@@ -450,15 +450,12 @@ O calendario possui acesso para mais duas partes, sendo estas
 Apresentamos aqui o diagrama do funcionamento do site no atual momento
 Levando-se em conta a limitação de nao poder ser usado backend
 
-![Driagrama](images/Driagrama.jpg)
+Assim como ja explicado as tecnologias usadas foram todas baseadas em funcoes javascript para controle da D.O.M. e validação de entrada de dados
+juntamente trabalhadas com HTML/CSS, sendo o CSS em maior parte estilizado atraves do Bootstrap e padronizado com a ajuda do MDBootstrap
+Por fim a utilização de LocalStorage para armazenamento das informações e o uso do calendario.io para controle do calendario
+Tudo isso esta armazenado na plataforma Repl.it para acesso livre
 
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
-> 
-> **Exemplo do diagrama de Arquitetura**:
-> 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
-
+![Diagrama](images/Diagrama.jpg)
 
 # Avaliação da Aplicação
 
