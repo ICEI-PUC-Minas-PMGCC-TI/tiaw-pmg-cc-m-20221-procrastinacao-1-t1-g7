@@ -395,10 +395,10 @@ Utilizaremos também algumas tags para o desenvolvimento:
 
 # Projeto da Solução
 
-Para produzir nosso trabalho nos pensamos em plataformas ja existentes do mercado que geralmente deixam a desejar para aqueles que a usam.
-Trabalhamos totalmente em cima do resultado obtido pela pesquisa que dizia o quanto todos percebiam a diferença que organizar melhor seu tempo faz em sua vida profissional e pessoal em diferentes aspectos e tentamos deixar isso claro na imagem do nosso trabalho como por exemplo a implementação da tela de artigos e a utilização de pontos por cumprimento de tarefas para criar um maior vinculo entre cliente/plataforma.
-Usamos inicialmente um projeto open sorce criado pela microsoft para criação do calendario e modificamos ele de acordo com nossas necessidades.
-O site visa ter uma aparencia semelhante as ferramentas de uso diario daqueles que trabalham com computação como, outlook, visual code, canvas e etc. Para que assim seja facil do usuario se acostumar com a aplicação.
+Para produzir nosso trabalho nós pensamos em plataformas já existentes do mercado que geralmente deixam a desejar para aqueles que a usam.
+Trabalhamos totalmente em cima do resultado obtido pela pesquisa que dizia o quanto era perceptível a diferença que organizar melhor seu tempo fazia em sua vida profissional e pessoal em diferentes aspectos e tentamos deixar isso claro na imagem do nosso trabalho como por exemplo a implementação da tela de artigos e a utilização de pontos por cumprimento de tarefas para criar um maior vínculo entre cliente/plataforma.
+Usamos inicialmente um projeto open source, criado pela Microsoft, para criação do calendário e o modificamos de acordo com nossas necessidades.
+O site visa ter uma aparência semelhante às ferramentas de uso diário daqueles que trabalham com computação como, Outlook, Visual Studio Code, Canvas, etc. Para que assim, seja fácil para usuário se acostumar com a aplicação.
 As tecnologias usadas serão apresentadas e detalhadas abaixo.
 
 ## Tecnologias Utilizadas
@@ -406,60 +406,60 @@ As tecnologias usadas serão apresentadas e detalhadas abaixo.
 Foram utilizados para a criação da aplicação:
 
 > HTML e CSS:
-sendo estes o kit basico de criaçao de qualquer aplicação web
+Sendo estes o kit básico de criação de qualquer aplicação web.
 
 > BOOTSTRAP:
-O uso do boostrap foi indispensavel para manter um padrão visual entre todo o site, sendo este principalmente minimalista e com uma paleta de cores em tom pastel para que seja leve para a vista e facil de se acostumar, trazendo uma sensação de calma e prosperidade, sendo assim de facil a implementação atraves do bootstrap. Mas é importante dizer que o boostrap foi utilizado apenas como complemento ao CSS
+O uso do boostrap foi indispensável para manter um padrão visual entre todo o site, sendo este principalmente minimalista e com uma paleta de cores em tom pastel para que seja leve e fácil de se acostumar, trazendo uma sensação de calma e prosperidade, sendo fácil a implementação através do Bootstrap. Mas é importante ressaltar que o Boostrap foi utilizado apenas como complemento ao CSS.
 
 > MDBOOTSTRAP.COM:
-Utilizamos esta biblioteca de boostrap para minimizar ao maximo qualquer chance de bug ou incompatibilidade entre componentes
+Utilizamos esta biblioteca de Boostrap para minimizar ao máximo qualquer chance de bug ou incompatibilidade entre componentes.
 
 > JAVASCRIPT:
-Tirando o calendario todo o javascript do site foi criado personalizado e a mao de acordo com a necessidade da pagina, todos os dados foram armazenados em localstorage para assim ter uma facil conversa entre as paginas do site, seja para fazer o controle de permissão, levar dados do usuario de um lugar para o outro ou para fazer a interação entre os dados do usuario e o javascript do calendario.
+Tirando o calendário todo, o Javascript do site foi criado personalizado e à mão, de acordo com a necessidade da página, todos os dados foram armazenados no _localstorage_ para ter uma fácil conversa entre as páginas do site, seja para fazer o controle de permissão, levar dados do usuário de um lugar para o outro ou para fazer a interação entre os dados do usuário e o Javascript do calendário.
 
 > FullCalendar.io:
-Projeto OpenSource criado pela microsoft para um calendario automatizado e de facil controle e implementação para sistemas proprios.
-O mesmo foi modificado para as necessidades da nossa aplicação
+Projeto OpenSource criado pela Microsoft para um calendário automatizado e de fácil controle e implementação para sistemas próprios.
+O mesmo foi modificado para as necessidades da nossa aplicação.
 
 > Repl.it:
-Plataforma online para publicação de dominios web de forma gratuita, foi utilizada para fazer os testes no nosso site de forma que se apresentasse igualmente para todos os desenvolvedores, sem que houvesse incompatibilidade entre sistemas e IDE's. Além de permitir a apresentação de uma previa do site.
+Plataforma online para publicação de domínios web de forma gratuita, foi utilizada para fazer os testes no nosso site de forma que se apresentasse igualmente para todos os desenvolvedores, sem que houvesse incompatibilidade entre sistemas e IDE's. Além de permitir a apresentação de uma prévia do site.
 
 > Visual Studio Code:
-IDE's gratuita criada pela Microsoft que apresenta uma quantidade muito grande de ferramentas que facilitam o trabalho para a criação e desenvolvimento de um site, principalmente através de suas extenções como o Live Server que permite a visualização do site em tempo de edição do codigo. Todo o conteudo do site foi escrito e produzido dentro do VSCode.
+IDE gratuita criada pela Microsoft que apresenta uma quantidade muito grande de ferramentas que facilitam o trabalho para a criação e desenvolvimento de um site, principalmente através de suas extenções como o Live Server, que permite a visualização do site em tempo real de edição do codigo. Todo o conteúdo do site foi escrito e produzido dentro do VSCode.
 
 > Photoshop:
-Para a edição de imagens utilizadas no site
+Para a edição de imagens utilizadas no site.
 
 > Jquery:
-Para uma melhor organização do javascript e funcionalidades
+Para uma melhor organização do Javascript e funcionalidades.
 
-As tecnologias fundamentais para a utilização do usuario são o html/css/bootstrap que estarão onipresentes em todo o momento em que o usuario estiver utilizando a aplicação. O javascript ira aparecer de 3 formas distintas, sendo estas primeiro durante o cadastro do usuario para tratamento de erros e registro das informações em Local Storage, segundo para a implementação do calendario e coração da aplicação fazendo o cadastro e apresentação das notas que o usuario configurar e por ultimo para a configuração personalizada do usuario, sendo este usuario unico atraves de sua conta.
+As tecnologias fundamentais para a utilização do usuário são o HTML/CSS/Bootstrap que estarão onipresentes em todo o momento em que o usuário estiver utilizando a aplicação. O Javascript irá aparecer de 3 formas distintas: primeira, durante o cadastro do usuário para tratamento de erros e registro das informações no _localstorage_, segunda, para a implementação do calendário e coração da aplicação, fazendo o cadastro e apresentação das notas que o usuário configurar, e, por último, para a configuração personalizada do usuário, sendo este usuário único através de sua conta.
 
-Aqui podemos ver o User Flow da movimentação do usuario no site e pelas suas paginas
+Aqui podemos ver o User Flow da movimentação do usuário no site e pelas suas páginas.
 ![UserFlow](images/WireframeReal.jpg)
 
-Como pode ser visto o site se resume em uma tela separada de Login com diversos pontos como Descrição da empresa, Criação da conta, Recuperação de Senha e o mais importante o proprio Login
+Como pode ser visto, o site se resume em uma tela separada de Login com diversos pontos como Descrição da empresa, Criação da conta, Recuperação de Senha e o mais importante, o proprio Login.
 ![Login](images/Login1.jpg)
 
-Em seguida o coração do site esta no calendario junto com o cadastro de notas que pode ser visto aqui:
+Em seguida, o coração do site está no calendário junto com o cadastro de notas, que pode ser visto aqui:
 ![Calendario](images/Calendario1.jpg)
 
-O calendario possui acesso para mais duas partes, sendo estas
+O calendário possui acesso para mais duas partes, sendo estas:
 1 - A tela de Artigos
 ![Artigos](images/Artigos1.jpg)
 
-2 - A tela de configurações do usuario
+2 - A tela de configurações do usuário
 ![Configuracoes](images/Configuracoes1.jpg)
 
 ## Arquitetura da solução
 
-Apresentamos aqui o diagrama do funcionamento do site no atual momento
-Levando-se em conta a limitação de nao poder ser usado backend
+Apresentamos aqui o diagrama do funcionamento do site no atual momento.
+Levando-se em conta a limitação de não poder ser usado backend.
 
-Assim como ja explicado as tecnologias usadas foram todas baseadas em funcoes javascript para controle da D.O.M. e validação de entrada de dados
-juntamente trabalhadas com HTML/CSS, sendo o CSS em maior parte estilizado atraves do Bootstrap e padronizado com a ajuda do MDBootstrap
-Por fim a utilização de LocalStorage para armazenamento das informações e o uso do calendario.io para controle do calendario
-Tudo isso esta armazenado na plataforma Repl.it para acesso livre
+Assim como já explicado, as funcionalidades usadas foram todas baseadas em Javascript para controle da D.O.M. e validação de entrada de dados,
+juntamente trabalhadas com HTML/CSS, sendo o CSS, em maior parte, estilizado através do Bootstrap e padronizado com a ajuda do MDBootstrap
+Por fim, a utilização de _LocalStorage_ para armazenamento das informações e o uso do calendario.io para controle do calendário.
+Tudo isso está armazenado na plataforma Repl.it para acesso livre.
 
 ![Diagrama](images/Diagrama.jpg)
 
@@ -469,27 +469,27 @@ Na tela de login foram feitos diversos testes e tratamentos de erros, aqui apres
 ![Erros1](images/tratamento1.jpg)
 ![Erros2](images/tratamento2.jpg)
 
-Na tela de cadastro de notas podemos mostrar aqui os tratamentos de erros são prevenidos por funções nativas do html que controlam a entrada de dados apresentando automaticamente um calendario para escolha da data que automaticamente rejeita tadas invalidas + um relogio onde você pode selecionar a hora clicando que automaticamente corrige valores invalidos
-As cores das notas são controladas pelo tipo de dado que você escolhe, como trabalho, dia-a-dia, lazer e estudo
+Na tela de cadastro de notas podemos mostrar que os tratamentos de erros são prevenidos por funções nativas do HTML que controlam a entrada de dados, apresentando automaticamente um calendário para escolha da data, que automaticamente rejeita datas inválidas, e um relogio onde você pode selecionar a hora clicando, que, novamente  corrige automaticamente os valores inválidos.
+As cores das notas são controladas pelo tipo de dado que você escolhe, como trabalho, dia-a-dia, lazer e estudo.
 
 ![Erros3](images/addNotes.jpg)
 
 
 ## Plano de Testes
 
-Os planos de testes foram detalhados no topico acima, eles foram feitos atraves inicialmente de um planejamento de possiveis erros, em seguida uma pesquisa de testes necessarios, em seguida a implementação junto com testes paralelos e por fim uma bateria de testes realizado por 5 pessoas diferentes para se achar possiveis erros ou falhas junto com suas posteriores correções.
+Os planos de testes foram detalhados no tópico acima. Eles foram feitos, inicialmente, através de um planejamento de possíveis erros, em seguida, uma pesquisa de testes necessários, logo após, a implementação, junto com testes paralelos, e, por fim, uma bateria de testes realizada por 5 pessoas diferentes afim de encontrar possíveis erros ou falhas junto com suas posteriores correções.
 
 
 ## Registros de Testes
 
-Na pagina de Login foram encontrados muitas formas diferentes de falha de entrada, em sua maioria foram feitos tratamentos que prevenissem a inserção de dados de diferentes tipos, assim também prevenindo diversas falhas de segurança. Alguns tipos de erros não são necessarios fazer tratamento devido as suas essências como por exemplo alguem tentando recuperar uma conta que nem sequer foi criada, sempre sera apresentado um erro de conta não encontrada, sendo que todos os sites funcionam com está arquitetura erros como estes não precisam ser tratados.
+Na página de Login foram encontrados muitas formas diferentes de falha de entrada, em sua maioria foram feitos tratamentos que prevenissem a inserção de dados de diferentes tipos, assim também prevenindo diversas falhas de segurança. Alguns tipos de erros não são necessários fazer tratamento específico, devido às suas essências, como por exemplo, alguém tentando recuperar uma conta que nem sequer foi criada, sempre será apresentado um erro de conta não encontrada.
 
-Dentro do site existem outros erros possiveis como a inserção de dados invalidos na criação das notas do calendario, estes erros são prevenidos com a opção do usuario entrar com o dado atraves de um mini calendario, selencionando manualmente o dia em vez de digita-lo e também o mesmo para a hora sendo selecionada em um relogio, lembra-se que cada uma dessas funcionalidades é herdada do browser que estiver sendo utilizado se tornando não possivel trata-las caso o browser não possua esta opção. Para evitar a inserção de mes no lugar do dia e vice versa é feito uma sugestão de dados em forma de placeholder e controle de tipagem com pattern, mas ainda não é possivel identificar possiveis falhas caso a pessoa não se atente ou a conversão automatica de dados do browser falhe.
+Dentro do site existem outros erros possíveis, como a inserção de dados inválidos na criação das notas no calendário. Estes erros são prevenidos com a opção do usuário entrar com o dado através de um pequeno calendário, selecionando manualmente o dia, ao invés de digitá-lo, o mesmo para a hora sendo selecionada em um relógio, lembra-se que cada uma dessas funcionalidades é herdada do browser que estiver sendo utilizado tornando impossível tratá-las caso o browser não possua esta opção. Para evitar a inserção do mês no lugar do dia e vice versa é feito uma sugestão de dados em forma de _placeholder_ e controle de tipagem com _pattern_, mas ainda não é possivel identificar possíveis falhas caso a pessoa não se atente ou a conversão automática de dados do browser falhe.
 
 
 # Referências
 
-Por fim fica aqui nosso agradecimento a todos os envolvidos que participaram dos testes de persona em campo, ideias, testagem, dicas e ajuda na produção.
+Por fim, fica aqui nosso agradecimento a todos os envolvidos que participaram dos testes de persona em campo, ideias, testagem, dicas e ajuda na produção.
 Além dos professores guias que nos ajudaram a produzir o trabalho, sendo estes:
 > Rommel Carneiro
 > Carlos Pietrobon
